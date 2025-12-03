@@ -1,0 +1,12 @@
+# Core CATS dependencies
+requests-cache>=1.0
+PyYAML>=6.0
+
+# GreenGL Studio dependencies
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.0.0
+
+# Optional: for testing
+# pytest>=7.0
+# numpy>=1.5.0
